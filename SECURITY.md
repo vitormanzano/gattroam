@@ -22,11 +22,7 @@ read and taken seriously. Once a problem is fixed, it will be published in a sec
 advisory, with credit to you if you want it.
 
 ## Threat model
-
-> This is the planned design. gattroam doesn't implement these protections yet; they are
-> tracked in the [roadmap](README.md#roadmap).
-
-gattroam aims to protect against:
+Gattroam aims to protect against:
 
 - **Unauthorized access points:** only nodes you explicitly authorize can join your
   gattroam network.
