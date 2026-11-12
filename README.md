@@ -68,6 +68,8 @@ Bluetooth relay attacks. It is meant for your own devices: gattroam only bridges
 you explicitly pair with it, and traffic between access points will be authenticated and
 encrypted.
 
+To report a vulnerability, see [SECURITY.md](SECURITY.md).
+
 ## Roadmap
 
 - [ ] Bridge a BLE device to a phone through a single access point
@@ -78,8 +80,9 @@ encrypted.
 
 ## Contributing
 
-gattroam is in its early stages. Please open an issue to discuss an idea before sending
-a pull request.
+gattroam is in its early stages, and ideas are welcome. Before getting started, read the
+[contributing guide](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
+The important design decisions are recorded in [docs/decisions](docs/decisions/README.md).
 
 ## License
 
