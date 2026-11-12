@@ -1,4 +1,4 @@
-# 0002. Use BlueZ, through its D-Bus API, as the Bluetooth stack
+ 0002. Use BlueZ, through its D-Bus API, as the Bluetooth stack
 
 - **Status:** Accepted
 - **Date:** 2026-11-08
